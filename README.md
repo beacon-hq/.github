@@ -1,1 +1,1 @@
-# .github
+# Beacon HQ
